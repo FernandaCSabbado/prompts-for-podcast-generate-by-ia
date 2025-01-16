@@ -1,22 +1,3 @@
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="300"
-/>
-</p>
-
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
 
 <p align="center">
     preview do podcast
@@ -37,63 +18,52 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Microsoft Copilot](https://copilot.microsoft.com/) 
+- [Leonardo.AI](https://leonardo.ai/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
+- [Canva](https://www.canva.com/)
+
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
+- Roteiro gerado via Microsoft Copilot
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Leonardo.ia e Canva Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-## 📚 Materiais
+Prompt do Roteiro
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+Crie um roteiro para um podcast curto sobre consultoria de imagem e estilo, onde vamos dar cinco dicas de roupas e acessorios, que transmitam autoridade, acessibilade e elegancia, no ambiente de trabalho
+
++
+
+Adapte o texto do roteiro, se apresentando como Fernanda Sabbado, Consultora de Imagem e Estilo
+
+Introdução (1-2 minutos)
+Fernanda Sabbado: "Olá, sejam todos muito bem-vindos ao nosso podcast sobre consultoria de imagem e estilo no ambiente de trabalho. Eu sou Fernanda Sabbado, consultora de imagem e estilo, e estou aqui para ajudar você a transmitir autoridade, acessibilidade e elegância através das suas roupas e acessórios."
+
+Apresentação do tema do episódio.
+
+Breve explicação sobre a importância de uma boa imagem no ambiente de trabalho.
+
+Dica 1: Roupa Adequada (2-3 minutos)
+Fernanda Sabbado: "Nossa primeira dica é sobre a roupa adequada. Para transmitir autoridade, opte por blazers bem cortados, calças sociais e saias lápis. Cores neutras ou suaves promovem um ambiente inclusivo e elegante. Além disso, escolha tecidos de qualidade que valorizem seu corpo de forma sutil."
+
+Dica 2: Acessórios Discretos (2-3 minutos)
+Fernanda Sabbado: "Os acessórios também são fundamentais. Relógios clássicos e óculos sofisticados transmitem seriedade e responsabilidade. Acessórios simples e discretos promovem uma imagem acessível e amigável. Escolha peças que complementem seu look sem exageros, como joias finas e bolsas de couro."
+
+Dica 3: Calçados Adequados (2-3 minutos)
+Fernanda Sabbado: "Nosso terceiro tópico é sobre calçados. Sapatos sociais são essenciais para demonstrar profissionalismo. Opte por calçados confortáveis que permitam um dia de trabalho produtivo. Escolha cores neutras e designs clássicos para adicionar sofisticação ao seu look."
+
+Dica 4: Cuidados com o Cabelo (2-3 minutos)
+Fernanda Sabbado: "O cabelo bem cuidado também é crucial. Mantenha seu cabelo bem penteado para transmitir uma imagem de responsabilidade. Penteados simples e práticos são uma ótima escolha. Adicione um toque de sofisticação com penteados minimalistas e cuidados regulares."
+
+Dica 5: Maquiagem e Higiene Pessoal (2-3 minutos)
+Fernanda Sabbado: "Por fim, vamos falar sobre maquiagem e higiene pessoal. Uma maquiagem profissional e discreta é essencial para as mulheres, assim como cuidados com a barba para os homens. Recomendo uma maquiagem natural que destaque seus pontos fortes de forma acolhedora e elegante. Produtos de higiene pessoal de qualidade são indispensáveis para uma boa apresentação diária."
+
+Conclusão (1-2 minutos)
+Fernanda Sabbado: "Para recapitular, hoje falamos sobre a importância da roupa adequada, acessórios discretos, calçados adequados, cuidados com o cabelo e maquiagem e higiene pessoal no ambiente de trabalho. Espero que essas dicas tenham sido úteis para vocês. Não se esqueçam de seguir nosso podcast nas redes sociais e enviar suas perguntas e sugestões. Muito obrigada pela audiência e até a próxima!"
 
 
-## 🛠️ Instruções de execução
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
